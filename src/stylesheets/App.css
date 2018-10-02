@@ -1,0 +1,25 @@
+.title {
+    font-size: 30px;
+    color:#797474;
+    text-align: center;
+}
+
+.reg{
+    float:none;
+    margin:8% auto;
+}
+
+.reg .reg-form{
+    margin-top:8%;
+}
+
+.reg .reg-form input{
+    display: block;
+    margin: 5%;
+    width: 85%;
+    padding: 2%;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
